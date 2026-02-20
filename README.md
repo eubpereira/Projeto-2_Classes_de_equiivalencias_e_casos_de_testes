@@ -1,0 +1,1 @@
+# Projeto-2_Classes_de_equiivalencias_e_casos_de_testes
